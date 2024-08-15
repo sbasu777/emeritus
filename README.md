@@ -1,2 +1,2 @@
 # emeritus
-Emeriyus project
+Emeritus project
